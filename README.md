@@ -1,4 +1,4 @@
-# BERNARD -The first sentient AI | Hugging Face, Transformers, GPT-2, PyTorch | 🚀 
+# SHELDON -The first sentient AI | Hugging Face, Transformers, GPT-2, PyTorch | 🚀 
 
 
 • Bernard combines a sophisticated neural network machine learning model and scripted dialogue content.
